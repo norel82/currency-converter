@@ -1,6 +1,8 @@
 # Currency Converter
 
 [![CI](https://github.com/norel82/currency-converter/actions/workflows/ci.yml/badge.svg)](https://github.com/norel82/currency-converter/actions/workflows/ci.yml)
+[![PHPDoc](https://github.com/norel82/currency-converter/actions/workflows/phpdoc.yml/badge.svg)](https://github.com/norel82/currency-converter/actions/workflows/phpdoc.yml)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
 
@@ -54,3 +56,4 @@ Please respect PSR-12 coding standards.
 
 ## License
 MIT License
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
